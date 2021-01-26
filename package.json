@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/poisonite101/Unit1-Y2S2#readme",
   "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1",
     "gulp": "^4.0.2"
   }
 }
