@@ -1,0 +1,23 @@
+{
+  "name": "Unit1-Y2S2",
+  "version": "1.0.0",
+  "description": "Unit1-Y2S2",
+  "main": "asyncDemo2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poisonite101/Unit1-Y2S2.git"
+  },
+  "keywords": [],
+  "author": "poisonite101",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poisonite101/Unit1-Y2S2/issues"
+  },
+  "homepage": "https://github.com/poisonite101/Unit1-Y2S2#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
